@@ -1,4 +1,4 @@
-# Machine Learning Projects Repository
+# Machine Learning Projects
 
 Welcome to the Machine Learning Projects repository! This repository contains multiple projects focusing on various machine learning tasks. Each project has its own folder and may cover topics like supervised learning, unsupervised learning, deep learning, and data preprocessing.
 
