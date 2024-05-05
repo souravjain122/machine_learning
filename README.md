@@ -11,6 +11,9 @@ Welcome to the Machine Learning Projects repository! This repository contains mu
   - **Results**: Outcomes and visualizations from model training and evaluation.
   - **Requirements**: Each project has its own `requirements.txt` file to specify dependencies.
 
+## Repository Contents
+- [US Income Prediction](./US%20Income%20Prediction): Random Forest Classification model with detailed EDA as well as Visualizations. Includes complex functions for Weighted Chi-Square, Cramer's V, Point Biserial and using Sample weights in the Model as well as Analysis
+
 ## Getting Started
 To set up this repository and run the projects, follow these steps:
 
