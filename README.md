@@ -12,9 +12,10 @@ Welcome to the Machine Learning Projects repository! This repository contains mu
   - **Requirements**: Each project has its own `requirements.txt` file to specify dependencies.
 
 ## Repository Contents
-- [US Income Prediction](./US%20Income%20Prediction): Random Forest Classification model with detailed EDA as well as Visualizations. It includes complex functions for Weighted Chi-Square, Cramer's V, Point Biserial, and using sample weights in the model as well as analysis.
+- [US Income Prediction](./US%20Income%20Prediction): Random Forest Classification model with detailed EDA as well as Visualizations. It includes complex functions for Weighted Chi-Square, Cramer's V, Point Biserial, and using sample weights in the model and analysis.
 - [Yelp Regression](./Yelp%20Regression): A guided Linear Regression project for Beginners. Helps in skilling in Pandas commands, Data Cleaning, Correlation Heatmap, Scatterplots, Feature Selection, Train Test Split, Model training, and accuracy based on R².
-- [Credit Card Fraud Detection](./Credit%20Card%20%Fraud%Detection): A Random Forest Classifier model used to detect credit card frauds along with Correlation Heatmap, Scatterplots, Density Plot, GridSearchCV, Train Test Split, Model Training.
+- [Credit Card Fraud Detection](./Credit%20Card%20%Fraud%Detection): A Random Forest Classifier model used to detect credit card frauds along with Correlation Heatmap, Scatterplots, Density Plot, GridSearchCV, Train Test Split, and Model Training.
+- [Digit Recognizer](./Digit%20Recognizer): Implemented multiple models (Neural Network, SVC, Random Forest, XGBoost, Logistic Regression) for MNIST digit recognition, including data preprocessing, training, evaluation, and performance comparison based on accuracy and classification reports.
 
 ## Getting Started
 To set up this repository and run the projects, follow these steps:
